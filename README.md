@@ -101,3 +101,7 @@ These will be placed as *:root* variables within the style.css file in order to 
 
 Any imagery used on the website will be from Alcis products and those created by Alcis Geo.
 
+#### Typography
+
+The main font that will be applied to the web application is [Montserrat](https://fonts.google.com/specimen/Montserrat), with a fallback font of **Sans-Serif**.
+
