@@ -96,3 +96,8 @@ The colour scheme will be based off of the current Alcis website and it's logo t
 The above table was extracted from the image using [Adobe Color](https://color.adobe.com/create/image) by uploading the image and selecting the colours extracted from the image.
 
 These will be placed as *:root* variables within the style.css file in order to be used across all necessary elements.
+
+#### Imagery
+
+Any imagery used on the website will be from Alcis products and those created by Alcis Geo.
+
