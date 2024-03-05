@@ -130,6 +130,18 @@ The below wireframes will help understand the basic design and layout of informa
 <summary>CLICK HERE to view mobile wireframe</summary>
 
 #### Dashboard, User not signed in
-<img src="./design/wireframes/mobile-general.png">
+<img src="./design/wireframes/mobile-general.png" height="400px" style="background-color:#fff;">
 
 </details>
+
+### Database Design
+
+Below is the schema design for the database that will hold and handle user accounts, groups, portals and layers alongside user specific features such as notifications and/or messages.
+
+This is a relational database handled by [PostgreSQL](https://www.postgresql.org/) which uses primary and foreign keys from each table in order to relate entries to eachother.
+
+This database design will ensure that users can only access their specified portals, and information relative to their groups.
+
+This database design is subject to change if other features are required.
+
+<img src="./design/database-design.png">
