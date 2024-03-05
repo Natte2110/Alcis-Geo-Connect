@@ -73,3 +73,26 @@ The aim is to provide a simple and intuitive, yet interactive geospatial visuali
     - Create and update customer user accounts.
     - Manage Staff user accounts.
     - See a list of recently made changes by Alcis Staff.
+
+### Design
+
+This web application will be in the style of a dashboard, with navigation/menu items on the left, with additional functionality on a smaller top bar.
+
+#### Color Scheme
+
+The colour scheme will be based off of the current Alcis website and it's logo to ensure customers have a familiar experience.
+
+<div align="center" style="height:200px;">
+    <img src="./design/colour-scheme.png">
+</div>
+
+*Palette*: **Extracted From Above Image**
+
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ![#38A687](https://via.placeholder.com/15/38A687/38A687) | ![#8CBF3F](https://via.placeholder.com/15/8CBF3F/8CBF3F) | ![#7DA63F](https://via.placeholder.com/15/7DA63F/7DA63F) | ![#F2F2F2](https://via.placeholder.com/15/F2F2F2/F2F2F2) | ![#404040](https://via.placeholder.com/15/404040/404040) |
+| #38A687 | #8CBF3F | #7DA63F | #F2F2F2 | #404040 |
+
+The above table was extracted from the image using [Adobe Color](https://color.adobe.com/create/image) by uploading the image and selecting the colours extracted from the image.
+
+These will be placed as *:root* variables within the style.css file in order to be used across all necessary elements.
