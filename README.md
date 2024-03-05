@@ -105,3 +105,31 @@ Any imagery used on the website will be from Alcis products and those created by
 
 The main font that will be applied to the web application is [Montserrat](https://fonts.google.com/specimen/Montserrat), with a fallback font of **Sans-Serif**.
 
+### Wireframes
+
+The below wireframes will help understand the basic design and layout of information on each page.
+
+<details>
+<summary>CLICK HERE to view desktop wireframes</summary>
+
+#### Dashboard, User not signed in
+<img src="./design/wireframes/desktop-dashboard-visitor.png">
+
+#### Dashboard, Customer signed in
+<img src="./design/wireframes/desktop-dashboard-customer.png">
+
+#### Dashboard, Admin signed in
+<img src="./design/wireframes/desktop-dashboard-admin.png">
+
+#### Portal, Customer signed in
+<img src="./design/wireframes/desktop-portal-customer.png">
+
+</details>
+
+<details>
+<summary>CLICK HERE to view mobile wireframe</summary>
+
+#### Dashboard, User not signed in
+<img src="./design/wireframes/mobile-general.png">
+
+</details>
