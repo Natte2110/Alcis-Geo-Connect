@@ -46,6 +46,9 @@ The aim is to provide a simple and intuitive, yet interactive geospatial visuali
         - [**Typography**](#typography)
     - [**Wireframes**](#wireframes)
     - [**Database Design**](#database-design)
+2. [**Features**](#features)
+    - [**Existing Features**](#existing-features)
+    - [**Planned Features**](#planned-features)
 
 ---
 
@@ -145,3 +148,28 @@ This database design will ensure that users can only access their specified port
 This database design is subject to change if other features are required.
 
 <img src="./design/database-design.png">
+
+## Features
+
+In lieu with the project requirements, I will list and update the features that are currently, or will be available on the site.
+
+### Existing Features
+
+No existing features are present as development has not begun.
+
+### Planned Features
+
+- **User Accounts** - Clients, Alcis Staff and Alcis Management will have individual, secure accounts that will allow them to access specific features on the site based on their user requirements
+
+- **User Management** - Alcis Management Staff will have access to account and group creation in order to assign Staff to manage specific portals, and create accounts for customers to access their group portals.
+
+- **Portal Management System** - Users aligned to specific portals with management authorisation will be able to add, remove and update layers within the specific portals.
+
+- **Portal Viewing** - Clients that are assigned to portals will be able to view and interact with their specific data, with visual popups containing more information such as charts, tables and predictions.
+
+- **Messages** - Users with accounts on the site will have access to messaging areas, where with certain restrictions they are able to send messages to people within their groups or ask questions to Alcis staff.
+
+- **Notifications** - Portal Managers will be able to issue a notification to customers assigned to portals in order to notify them of updates or changes made to their portals or user accounts.
+
+More features will be added during the development process.
+
