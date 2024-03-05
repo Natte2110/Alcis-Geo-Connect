@@ -49,6 +49,10 @@ The aim is to provide a simple and intuitive, yet interactive geospatial visuali
 2. [**Features**](#features)
     - [**Existing Features**](#existing-features)
     - [**Planned Features**](#planned-features)
+3. [**Technologies Used**](#technologies-used)
+    - [**Development Technologies**](#development-technologies)
+    - [**Front-End Technologies**](#front-end-technologies)
+    - [**Back-End Technologies**](#back-end-technologies)
 
 ---
 
@@ -173,3 +177,35 @@ No existing features are present as development has not begun.
 
 More features will be added during the development process.
 
+## Technologies Used
+
+In this section I will highlight the development technologies, from software to individual programming languages and packages.
+
+### Development Technologies
+
+- ![Balsamiq Wireframes](https://img.shields.io/static/v1?label=Balsamiq&message=4.7.4&color=CC0200)
+    - [Balsamiq](https://balsamiq.com/) - Balsamiq was used in order to create intuitive wireframes during the initial design process.
+- ![GitHub](https://img.shields.io/static/v1?label=GitHub&message=Natte2110&color=181717&logo=github&logoColor=ffffff)
+    - [GitHub](https://github.com/) - GitHub was used to store and manage the project within a combined online repository.
+- ![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=1.85.1&color=007ACC&logo=visual%20studio%20code&logoColor=ffffff)
+    - [VS Code](https://code.visualstudio.com/) - Visual Studio Code will be used as the primary development environment for the project.
+
+### Front-End Technologies
+
+- ![HTML5](https://img.shields.io/static/v1?label=HTML&message=5&color=E34F26&logo=html5&logoColor=ffffff)
+    - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - HTML5 was used as the primary markup language in order to structure and display the elements on the page.
+- ![CSS3](https://img.shields.io/static/v1?label=CSS&message=3&color=1572B6&logo=css3&logoColor=ffffff)
+    - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) - CSS Was used in order to provide styling to the web pages with custom colours and sizes of elements.
+- ![Bootstrap 4.3.1](https://img.shields.io/static/v1?label=Bootstrap&message=4.3.1&color=563d7c)
+    - [Bootstrap 4.3.1](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Bootstrap was used to quickly design and create the layout and look of the website.
+- ![jQuery 3.3.1](https://img.shields.io/static/v1?label=jQuery&message=3.3.1&color=0769AD&logo=jquery&logoColor=ffffff)
+    - [jQuery 3.3.1](https://code.jquery.com/jquery/) - jQuery was used in conjunction with bootstrap to apply javascript selectors and updating elements more efficiently.
+
+### Back-End Technologies
+
+- ![Python](https://img.shields.io/static/v1?label=Python&message=3.11.2&color=blue&logo=python&logoColor=ffffff)
+    - [Python 3.11.2](https://www.python.org/) - Python will be used as the back-end management language to pass and handle data to and from the application.
+- ![Django](https://img.shields.io/static/v1?label=Django&message=3.2&color=blue&logo=django&logoColor=ffffff)
+    - [Django 3.2](https://docs.djangoproject.com/en/3.2/) - Django will be used as the back-end framework. It boasts great security features and allows each feature to be built and maintained individually.
+- ![PostgreSQL 16.1](https://img.shields.io/static/v1?label=PostgreSQL&message=16.1&color=336791&logo=postgresql)
+    - [PostgreSQL 16.1](https://www.postgresql.org/) - PostgreSQL will be used as the database in this project in order to store information regarding users, posts and the attributed data to them.
