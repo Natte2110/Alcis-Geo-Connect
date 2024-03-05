@@ -36,3 +36,16 @@ The aim is to provide a simple and intuitive, yet interactive geospatial visuali
 - **Client Satisfaction**: Boost client satisfaction and loyalty by delivering a personalised and interactive user experience through the client portals, tailored to their specific needs and preferences.
 
 ---
+
+## Table of Contents
+1. [**UX**](#ux)
+    - [**User Stories**](#user-stories)
+    - [**Design**](#design)
+        - [**Color Scheme**](#color-scheme)
+        - [**Imagery**](#imagery)
+        - [**Typography**](#typography)
+    - [**Wireframes**](#wireframes)
+    - [**Database Design**](#database-design)
+
+---
+
