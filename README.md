@@ -6,7 +6,7 @@
 # [Alcis Geo Connect]()
 
 ![Python](https://img.shields.io/static/v1?label=Python&message=3.11.2&color=blue&logo=python&logoColor=ffffff)
-![Flask](https://img.shields.io/static/v1?label=Flask&message=2.2.0&color=blue&logo=flask&logoColor=ffffff)
+![Flask](https://img.shields.io/static/v1?label=Django&message=3.2&color=blue&logo=django&logoColor=ffffff)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Natte2110/Alcis-Geo-Connect?color=orange) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Natte2110/Alcis-Geo-Connect)
 
 This is a project for [Alcis Geo](https://www.alcis.org/) and aims to provide a centralised location for managing bespoke geospatial portals for Alcis customers. Utilising user logins both for Alcis Staff and their customers, each user of the site will have access to information and services pertinent to them.
@@ -49,3 +49,27 @@ The aim is to provide a simple and intuitive, yet interactive geospatial visuali
 
 ---
 
+## UX
+
+### User Stories
+
+- #### As an Alcis Geo Customer, I want to:
+
+    - View the site irrespective of what device I am using.
+    - Log in to a personal user account to create custom views and highlight information I will use often.
+    - Be able to view and interact with data provided by Alcis Geo Staff.
+    - View interactive charts that depict the most important data relevant to me.
+    - See relevant updates to the portal.
+
+- #### As a member of Alcis Geo Staff, I want to:
+
+    - Be able to collaborate with customers and receive feedback/ideas for potential changes
+    - Log in to a staff account allowing me to edit, update and change certain features on customer portals.
+    - Update layers and link them to portals to ensure the customer has access to the most up-to-date information.
+
+- #### As an Alcis Geo Manager, I want to:
+
+    - Assign staff members to specific tasks, or provide access to manage certain portals.
+    - Create and update customer user accounts.
+    - Manage Staff user accounts.
+    - See a list of recently made changes by Alcis Staff.
